@@ -1,9 +1,11 @@
-Fixed bug 1
-Change => to fix bug 1
+Fixed bug 1***
+Change 1 => to fix bug 1
 
-change => to master test conflict scenario by team mate
+change 2 => to master test conflict scenario by team mate
 
-change to fix bug2
+change 3 to fix bug2
 
 
-change to test rebase made by team mate
+change 4 to test rebase made by team mate
+
+Change 5=> added by another team mate to test rebaaase conflict scenarios
