@@ -2,3 +2,6 @@ Fixed bug 1
 Change => to fix bug 1
 
 change => to master test conflict scenario by team mate
+
+change to fix bug2
+
