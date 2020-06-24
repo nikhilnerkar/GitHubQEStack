@@ -1,11 +1,17 @@
-Fixed bug 1***
 Change 1 => to fix bug 1
+
+Fixed bug 1...
+
+
 
 change 2 => to master test conflict scenario by team mate
 
 change 3 to fix bug2
 
 
+
 change 4 to test rebase made by team mate
 
 Change 5=> added by another team mate to test rebaaase conflict scenarios
+
+Change for CR2
